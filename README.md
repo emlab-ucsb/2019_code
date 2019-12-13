@@ -8,7 +8,7 @@ A repo with information on everyone's git commits during 2019
 
 2. Open the `get_my_commits.R` file
 
-3. Modify the `path` and `user` variable (Lines 7 and 8)
+3. Modify the `path` and `user` variable (Lines 7 and 8)*
 
 4. Source the script (or "run all", or "line-by-line"... whichever you prefer)
 
@@ -18,3 +18,5 @@ A repo with information on everyone's git commits during 2019
 
 ## Advanced
  If for some reason you keep repos in many different places, you would have to manually run the `get_commits` function on each meta-directory.
+
+*Note: As Ian pointed it out, you may have to use your name (or what GitHub thinks your name is) instead. For example, iladner won't work because Ian has it set up as Ian Ladner. Tru both...
